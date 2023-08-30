@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\bin\Debug\net6.0\OperatorsExample2.exe
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\bin\Debug\net6.0\OperatorsExample2.deps.json
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\bin\Debug\net6.0\OperatorsExample2.runtimeconfig.json
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\bin\Debug\net6.0\OperatorsExample2.dll
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\bin\Debug\net6.0\OperatorsExample2.pdb
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\obj\Debug\net6.0\OperatorsExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\obj\Debug\net6.0\OperatorsExample2.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\obj\Debug\net6.0\OperatorsExample2.AssemblyInfo.cs
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\obj\Debug\net6.0\OperatorsExample2.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\obj\Debug\net6.0\OperatorsExample2.dll
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\obj\Debug\net6.0\refint\OperatorsExample2.dll
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\obj\Debug\net6.0\OperatorsExample2.pdb
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\obj\Debug\net6.0\OperatorsExample2.genruntimeconfig.cache
+C:\Users\tchel\Documents\teacher\C#\codes\OperatorsExample2\OperatorsExample2\obj\Debug\net6.0\ref\OperatorsExample2.dll
