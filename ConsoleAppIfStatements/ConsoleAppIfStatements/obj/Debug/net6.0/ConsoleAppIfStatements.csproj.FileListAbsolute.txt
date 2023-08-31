@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\bin\Debug\net6.0\ConsoleAppIfStatements.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\bin\Debug\net6.0\ConsoleAppIfStatements.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\bin\Debug\net6.0\ConsoleAppIfStatements.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\bin\Debug\net6.0\ConsoleAppIfStatements.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\bin\Debug\net6.0\ConsoleAppIfStatements.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\obj\Debug\net6.0\ConsoleAppIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\obj\Debug\net6.0\ConsoleAppIfStatements.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\obj\Debug\net6.0\ConsoleAppIfStatements.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\obj\Debug\net6.0\ConsoleAppIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\obj\Debug\net6.0\ConsoleAppIfStatements.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\obj\Debug\net6.0\refint\ConsoleAppIfStatements.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\obj\Debug\net6.0\ConsoleAppIfStatements.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\obj\Debug\net6.0\ConsoleAppIfStatements.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConsoleAppIfStatements\ConsoleAppIfStatements\obj\Debug\net6.0\ref\ConsoleAppIfStatements.dll

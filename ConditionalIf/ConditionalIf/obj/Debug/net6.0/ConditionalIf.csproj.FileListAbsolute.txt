@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\obj\Debug\net6.0\ConditionalIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\obj\Debug\net6.0\ConditionalIf.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\obj\Debug\net6.0\ConditionalIf.AssemblyInfo.cs
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\obj\Debug\net6.0\ConditionalIf.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\bin\Debug\net6.0\ConditionalIf.exe
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\bin\Debug\net6.0\ConditionalIf.deps.json
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\bin\Debug\net6.0\ConditionalIf.runtimeconfig.json
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\bin\Debug\net6.0\ConditionalIf.dll
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\bin\Debug\net6.0\ConditionalIf.pdb
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\obj\Debug\net6.0\ConditionalIf.dll
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\obj\Debug\net6.0\refint\ConditionalIf.dll
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\obj\Debug\net6.0\ConditionalIf.pdb
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\obj\Debug\net6.0\ConditionalIf.genruntimeconfig.cache
+C:\Users\tchel\Documents\teacher\C#\codes\ConditionalIf\ConditionalIf\obj\Debug\net6.0\ref\ConditionalIf.dll
