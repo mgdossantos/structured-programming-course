@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\bin\Debug\net6.0\ConditionalElif.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\bin\Debug\net6.0\ConditionalElif.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\bin\Debug\net6.0\ConditionalElif.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\bin\Debug\net6.0\ConditionalElif.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\bin\Debug\net6.0\ConditionalElif.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\obj\Debug\net6.0\ConditionalElif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\obj\Debug\net6.0\ConditionalElif.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\obj\Debug\net6.0\ConditionalElif.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\obj\Debug\net6.0\ConditionalElif.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\obj\Debug\net6.0\ConditionalElif.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\obj\Debug\net6.0\refint\ConditionalElif.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\obj\Debug\net6.0\ConditionalElif.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\obj\Debug\net6.0\ConditionalElif.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalElif\ConditionalElif\obj\Debug\net6.0\ref\ConditionalElif.dll

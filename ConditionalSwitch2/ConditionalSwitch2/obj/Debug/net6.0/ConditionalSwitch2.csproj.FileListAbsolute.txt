@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\bin\Debug\net6.0\ConditionalSwitch2.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\bin\Debug\net6.0\ConditionalSwitch2.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\bin\Debug\net6.0\ConditionalSwitch2.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\bin\Debug\net6.0\ConditionalSwitch2.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\bin\Debug\net6.0\ConditionalSwitch2.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\obj\Debug\net6.0\ConditionalSwitch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\obj\Debug\net6.0\ConditionalSwitch2.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\obj\Debug\net6.0\ConditionalSwitch2.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\obj\Debug\net6.0\ConditionalSwitch2.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\obj\Debug\net6.0\ConditionalSwitch2.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\obj\Debug\net6.0\refint\ConditionalSwitch2.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\obj\Debug\net6.0\ConditionalSwitch2.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\obj\Debug\net6.0\ConditionalSwitch2.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ConditionalSwitch2\ConditionalSwitch2\obj\Debug\net6.0\ref\ConditionalSwitch2.dll

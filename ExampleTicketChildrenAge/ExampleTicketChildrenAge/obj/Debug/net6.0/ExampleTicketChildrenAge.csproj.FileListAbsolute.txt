@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\bin\Debug\net6.0\ExampleTicketChildrenAge.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\bin\Debug\net6.0\ExampleTicketChildrenAge.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\bin\Debug\net6.0\ExampleTicketChildrenAge.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\bin\Debug\net6.0\ExampleTicketChildrenAge.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\bin\Debug\net6.0\ExampleTicketChildrenAge.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\obj\Debug\net6.0\ExampleTicketChildrenAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\obj\Debug\net6.0\ExampleTicketChildrenAge.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\obj\Debug\net6.0\ExampleTicketChildrenAge.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\obj\Debug\net6.0\ExampleTicketChildrenAge.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\obj\Debug\net6.0\ExampleTicketChildrenAge.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\obj\Debug\net6.0\refint\ExampleTicketChildrenAge.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\obj\Debug\net6.0\ExampleTicketChildrenAge.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\obj\Debug\net6.0\ExampleTicketChildrenAge.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleTicketChildrenAge\ExampleTicketChildrenAge\obj\Debug\net6.0\ref\ExampleTicketChildrenAge.dll

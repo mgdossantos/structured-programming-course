@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\bin\Debug\net6.0\verifyCharacter.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\bin\Debug\net6.0\verifyCharacter.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\bin\Debug\net6.0\verifyCharacter.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\bin\Debug\net6.0\verifyCharacter.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\bin\Debug\net6.0\verifyCharacter.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\obj\Debug\net6.0\verifyCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\obj\Debug\net6.0\verifyCharacter.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\obj\Debug\net6.0\verifyCharacter.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\obj\Debug\net6.0\verifyCharacter.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\obj\Debug\net6.0\verifyCharacter.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\obj\Debug\net6.0\refint\verifyCharacter.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\obj\Debug\net6.0\verifyCharacter.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\obj\Debug\net6.0\verifyCharacter.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\verifyCharacter\verifyCharacter\obj\Debug\net6.0\ref\verifyCharacter.dll
