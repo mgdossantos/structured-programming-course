@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\bin\Debug\net6.0\NumberOfcharacteresDoWhile.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\bin\Debug\net6.0\NumberOfcharacteresDoWhile.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\bin\Debug\net6.0\NumberOfcharacteresDoWhile.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\bin\Debug\net6.0\NumberOfcharacteresDoWhile.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\bin\Debug\net6.0\NumberOfcharacteresDoWhile.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\obj\Debug\net6.0\NumberOfcharacteresDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\obj\Debug\net6.0\NumberOfcharacteresDoWhile.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\obj\Debug\net6.0\NumberOfcharacteresDoWhile.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\obj\Debug\net6.0\NumberOfcharacteresDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\obj\Debug\net6.0\NumberOfcharacteresDoWhile.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\obj\Debug\net6.0\refint\NumberOfcharacteresDoWhile.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\obj\Debug\net6.0\NumberOfcharacteresDoWhile.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\obj\Debug\net6.0\NumberOfcharacteresDoWhile.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\NumberOfcharacteresDoWhile\NumberOfcharacteresDoWhile\obj\Debug\net6.0\ref\NumberOfcharacteresDoWhile.dll

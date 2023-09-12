@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\bin\Debug\net6.0\CumulativeSumWithDoWhile.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\bin\Debug\net6.0\CumulativeSumWithDoWhile.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\bin\Debug\net6.0\CumulativeSumWithDoWhile.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\bin\Debug\net6.0\CumulativeSumWithDoWhile.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\bin\Debug\net6.0\CumulativeSumWithDoWhile.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\obj\Debug\net6.0\CumulativeSumWithDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\obj\Debug\net6.0\CumulativeSumWithDoWhile.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\obj\Debug\net6.0\CumulativeSumWithDoWhile.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\obj\Debug\net6.0\CumulativeSumWithDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\obj\Debug\net6.0\CumulativeSumWithDoWhile.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\obj\Debug\net6.0\refint\CumulativeSumWithDoWhile.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\obj\Debug\net6.0\CumulativeSumWithDoWhile.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\obj\Debug\net6.0\CumulativeSumWithDoWhile.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumWithDoWhile\CumulativeSumWithDoWhile\obj\Debug\net6.0\ref\CumulativeSumWithDoWhile.dll

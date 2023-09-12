@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\obj\Debug\net6.0\MenuExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\obj\Debug\net6.0\MenuExercises.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\obj\Debug\net6.0\MenuExercises.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\obj\Debug\net6.0\MenuExercises.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\bin\Debug\net6.0\MenuExercises.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\bin\Debug\net6.0\MenuExercises.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\bin\Debug\net6.0\MenuExercises.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\bin\Debug\net6.0\MenuExercises.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\bin\Debug\net6.0\MenuExercises.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\obj\Debug\net6.0\MenuExercises.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\obj\Debug\net6.0\refint\MenuExercises.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\obj\Debug\net6.0\MenuExercises.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\obj\Debug\net6.0\MenuExercises.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuExercises\MenuExercises\obj\Debug\net6.0\ref\MenuExercises.dll

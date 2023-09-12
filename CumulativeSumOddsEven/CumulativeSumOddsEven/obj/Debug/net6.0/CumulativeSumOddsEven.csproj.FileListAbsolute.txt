@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\bin\Debug\net6.0\CumulativeSumOddsEven.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\bin\Debug\net6.0\CumulativeSumOddsEven.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\bin\Debug\net6.0\CumulativeSumOddsEven.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\bin\Debug\net6.0\CumulativeSumOddsEven.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\bin\Debug\net6.0\CumulativeSumOddsEven.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\obj\Debug\net6.0\CumulativeSumOddsEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\obj\Debug\net6.0\CumulativeSumOddsEven.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\obj\Debug\net6.0\CumulativeSumOddsEven.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\obj\Debug\net6.0\CumulativeSumOddsEven.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\obj\Debug\net6.0\CumulativeSumOddsEven.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\obj\Debug\net6.0\refint\CumulativeSumOddsEven.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\obj\Debug\net6.0\CumulativeSumOddsEven.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\obj\Debug\net6.0\CumulativeSumOddsEven.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CumulativeSumOddsEven\CumulativeSumOddsEven\obj\Debug\net6.0\ref\CumulativeSumOddsEven.dll

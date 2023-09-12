@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\bin\Debug\net6.0\CountNumberWithFor.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\bin\Debug\net6.0\CountNumberWithFor.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\bin\Debug\net6.0\CountNumberWithFor.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\bin\Debug\net6.0\CountNumberWithFor.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\bin\Debug\net6.0\CountNumberWithFor.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\obj\Debug\net6.0\CountNumberWithFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\obj\Debug\net6.0\CountNumberWithFor.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\obj\Debug\net6.0\CountNumberWithFor.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\obj\Debug\net6.0\CountNumberWithFor.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\obj\Debug\net6.0\CountNumberWithFor.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\obj\Debug\net6.0\refint\CountNumberWithFor.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\obj\Debug\net6.0\CountNumberWithFor.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\obj\Debug\net6.0\CountNumberWithFor.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CountNumberWithFor\CountNumberWithFor\obj\Debug\net6.0\ref\CountNumberWithFor.dll

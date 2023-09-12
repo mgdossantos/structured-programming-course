@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskFor5Numbers", "AskFor5Numbers\AskFor5Numbers.csproj", "{03CDB3F9-87BD-4707-BECF-79A48B7E43FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CDB3F9-87BD-4707-BECF-79A48B7E43FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CDB3F9-87BD-4707-BECF-79A48B7E43FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CDB3F9-87BD-4707-BECF-79A48B7E43FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CDB3F9-87BD-4707-BECF-79A48B7E43FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B260E241-2C4A-45A2-883A-21FB2466795A}
+	EndGlobalSection
+EndGlobal

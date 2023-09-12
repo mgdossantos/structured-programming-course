@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\bin\Debug\net6.0\CoffeeMachinev2.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\bin\Debug\net6.0\CoffeeMachinev2.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\bin\Debug\net6.0\CoffeeMachinev2.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\bin\Debug\net6.0\CoffeeMachinev2.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\bin\Debug\net6.0\CoffeeMachinev2.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\obj\Debug\net6.0\CoffeeMachinev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\obj\Debug\net6.0\CoffeeMachinev2.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\obj\Debug\net6.0\CoffeeMachinev2.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\obj\Debug\net6.0\CoffeeMachinev2.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\obj\Debug\net6.0\CoffeeMachinev2.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\obj\Debug\net6.0\refint\CoffeeMachinev2.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\obj\Debug\net6.0\CoffeeMachinev2.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\obj\Debug\net6.0\CoffeeMachinev2.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CoffeeMachinev2\CoffeeMachinev2\obj\Debug\net6.0\ref\CoffeeMachinev2.dll

@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\bin\Debug\net6.0\AskFor5Numbers.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\bin\Debug\net6.0\AskFor5Numbers.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\bin\Debug\net6.0\AskFor5Numbers.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\bin\Debug\net6.0\AskFor5Numbers.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\bin\Debug\net6.0\AskFor5Numbers.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\obj\Debug\net6.0\AskFor5Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\obj\Debug\net6.0\AskFor5Numbers.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\obj\Debug\net6.0\AskFor5Numbers.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\obj\Debug\net6.0\AskFor5Numbers.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\obj\Debug\net6.0\AskFor5Numbers.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\obj\Debug\net6.0\refint\AskFor5Numbers.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\obj\Debug\net6.0\AskFor5Numbers.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\obj\Debug\net6.0\AskFor5Numbers.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\AskFor5Numbers\AskFor5Numbers\obj\Debug\net6.0\ref\AskFor5Numbers.dll
