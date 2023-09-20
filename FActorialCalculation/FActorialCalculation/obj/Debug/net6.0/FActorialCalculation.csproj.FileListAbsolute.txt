@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\bin\Debug\net6.0\FActorialCalculation.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\bin\Debug\net6.0\FActorialCalculation.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\bin\Debug\net6.0\FActorialCalculation.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\bin\Debug\net6.0\FActorialCalculation.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\bin\Debug\net6.0\FActorialCalculation.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\obj\Debug\net6.0\FActorialCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\obj\Debug\net6.0\FActorialCalculation.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\obj\Debug\net6.0\FActorialCalculation.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\obj\Debug\net6.0\FActorialCalculation.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\obj\Debug\net6.0\FActorialCalculation.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\obj\Debug\net6.0\refint\FActorialCalculation.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\obj\Debug\net6.0\FActorialCalculation.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\obj\Debug\net6.0\FActorialCalculation.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\FActorialCalculation\FActorialCalculation\obj\Debug\net6.0\ref\FActorialCalculation.dll

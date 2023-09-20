@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\bin\Debug\net6.0\GuessTheNumberv3.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\bin\Debug\net6.0\GuessTheNumberv3.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\bin\Debug\net6.0\GuessTheNumberv3.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\bin\Debug\net6.0\GuessTheNumberv3.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\bin\Debug\net6.0\GuessTheNumberv3.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\obj\Debug\net6.0\GuessTheNumberv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\obj\Debug\net6.0\GuessTheNumberv3.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\obj\Debug\net6.0\GuessTheNumberv3.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\obj\Debug\net6.0\GuessTheNumberv3.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\obj\Debug\net6.0\GuessTheNumberv3.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\obj\Debug\net6.0\refint\GuessTheNumberv3.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\obj\Debug\net6.0\GuessTheNumberv3.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\obj\Debug\net6.0\GuessTheNumberv3.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv3\GuessTheNumberv3\obj\Debug\net6.0\ref\GuessTheNumberv3.dll

@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\bin\Debug\net6.0\GuessTheNumberv2.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\bin\Debug\net6.0\GuessTheNumberv2.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\bin\Debug\net6.0\GuessTheNumberv2.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\bin\Debug\net6.0\GuessTheNumberv2.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\bin\Debug\net6.0\GuessTheNumberv2.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\obj\Debug\net6.0\GuessTheNumberv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\obj\Debug\net6.0\GuessTheNumberv2.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\obj\Debug\net6.0\GuessTheNumberv2.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\obj\Debug\net6.0\GuessTheNumberv2.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\obj\Debug\net6.0\GuessTheNumberv2.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\obj\Debug\net6.0\refint\GuessTheNumberv2.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\obj\Debug\net6.0\GuessTheNumberv2.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\obj\Debug\net6.0\GuessTheNumberv2.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\GuessTheNumberv2\GuessTheNumberv2\obj\Debug\net6.0\ref\GuessTheNumberv2.dll

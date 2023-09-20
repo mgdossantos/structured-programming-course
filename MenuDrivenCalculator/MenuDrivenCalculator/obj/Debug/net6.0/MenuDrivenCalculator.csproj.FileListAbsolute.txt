@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\bin\Debug\net6.0\MenuDrivenCalculator.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\bin\Debug\net6.0\MenuDrivenCalculator.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\bin\Debug\net6.0\MenuDrivenCalculator.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\bin\Debug\net6.0\MenuDrivenCalculator.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\bin\Debug\net6.0\MenuDrivenCalculator.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\obj\Debug\net6.0\MenuDrivenCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\obj\Debug\net6.0\MenuDrivenCalculator.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\obj\Debug\net6.0\MenuDrivenCalculator.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\obj\Debug\net6.0\MenuDrivenCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\obj\Debug\net6.0\MenuDrivenCalculator.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\obj\Debug\net6.0\refint\MenuDrivenCalculator.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\obj\Debug\net6.0\MenuDrivenCalculator.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\obj\Debug\net6.0\MenuDrivenCalculator.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\MenuDrivenCalculator\MenuDrivenCalculator\obj\Debug\net6.0\ref\MenuDrivenCalculator.dll

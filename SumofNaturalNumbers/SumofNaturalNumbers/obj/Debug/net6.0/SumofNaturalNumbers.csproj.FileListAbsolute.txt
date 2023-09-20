@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\bin\Debug\net6.0\SumofNaturalNumbers.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\bin\Debug\net6.0\SumofNaturalNumbers.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\bin\Debug\net6.0\SumofNaturalNumbers.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\bin\Debug\net6.0\SumofNaturalNumbers.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\bin\Debug\net6.0\SumofNaturalNumbers.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\net6.0\SumofNaturalNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\net6.0\SumofNaturalNumbers.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\net6.0\SumofNaturalNumbers.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\net6.0\SumofNaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\net6.0\SumofNaturalNumbers.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\net6.0\refint\SumofNaturalNumbers.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\net6.0\SumofNaturalNumbers.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\net6.0\SumofNaturalNumbers.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumofNaturalNumbers\SumofNaturalNumbers\obj\Debug\net6.0\ref\SumofNaturalNumbers.dll

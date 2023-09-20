@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\bin\Debug\net6.0\Lecture5Repeat.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\bin\Debug\net6.0\Lecture5Repeat.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\bin\Debug\net6.0\Lecture5Repeat.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\bin\Debug\net6.0\Lecture5Repeat.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\bin\Debug\net6.0\Lecture5Repeat.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\obj\Debug\net6.0\Lecture5Repeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\obj\Debug\net6.0\Lecture5Repeat.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\obj\Debug\net6.0\Lecture5Repeat.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\obj\Debug\net6.0\Lecture5Repeat.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\obj\Debug\net6.0\Lecture5Repeat.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\obj\Debug\net6.0\refint\Lecture5Repeat.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\obj\Debug\net6.0\Lecture5Repeat.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\obj\Debug\net6.0\Lecture5Repeat.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture5Repeat\Lecture5Repeat\obj\Debug\net6.0\ref\Lecture5Repeat.dll
