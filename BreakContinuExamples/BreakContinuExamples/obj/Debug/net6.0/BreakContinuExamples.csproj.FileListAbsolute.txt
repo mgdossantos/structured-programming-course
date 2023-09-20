@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\bin\Debug\net6.0\BreakContinuExamples.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\bin\Debug\net6.0\BreakContinuExamples.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\bin\Debug\net6.0\BreakContinuExamples.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\bin\Debug\net6.0\BreakContinuExamples.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\bin\Debug\net6.0\BreakContinuExamples.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\obj\Debug\net6.0\BreakContinuExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\obj\Debug\net6.0\BreakContinuExamples.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\obj\Debug\net6.0\BreakContinuExamples.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\obj\Debug\net6.0\BreakContinuExamples.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\obj\Debug\net6.0\BreakContinuExamples.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\obj\Debug\net6.0\refint\BreakContinuExamples.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\obj\Debug\net6.0\BreakContinuExamples.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\obj\Debug\net6.0\BreakContinuExamples.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\BreakContinuExamples\BreakContinuExamples\obj\Debug\net6.0\ref\BreakContinuExamples.dll
