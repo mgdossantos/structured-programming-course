@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\bin\Debug\net6.0\SumOfEvenNumbers.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\bin\Debug\net6.0\SumOfEvenNumbers.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\bin\Debug\net6.0\SumOfEvenNumbers.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\bin\Debug\net6.0\SumOfEvenNumbers.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\bin\Debug\net6.0\SumOfEvenNumbers.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\obj\Debug\net6.0\SumOfEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\obj\Debug\net6.0\SumOfEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\obj\Debug\net6.0\SumOfEvenNumbers.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\obj\Debug\net6.0\SumOfEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\obj\Debug\net6.0\SumOfEvenNumbers.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\obj\Debug\net6.0\refint\SumOfEvenNumbers.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\obj\Debug\net6.0\SumOfEvenNumbers.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\obj\Debug\net6.0\SumOfEvenNumbers.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\SumOfEvenNumbers\SumOfEvenNumbers\obj\Debug\net6.0\ref\SumOfEvenNumbers.dll

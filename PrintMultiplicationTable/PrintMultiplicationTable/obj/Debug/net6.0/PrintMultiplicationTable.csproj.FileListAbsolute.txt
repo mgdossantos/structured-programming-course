@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\bin\Debug\net6.0\PrintMultiplicationTable.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\bin\Debug\net6.0\PrintMultiplicationTable.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\bin\Debug\net6.0\PrintMultiplicationTable.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\bin\Debug\net6.0\PrintMultiplicationTable.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\bin\Debug\net6.0\PrintMultiplicationTable.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\net6.0\PrintMultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\net6.0\PrintMultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\net6.0\PrintMultiplicationTable.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\net6.0\PrintMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\net6.0\PrintMultiplicationTable.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\net6.0\refint\PrintMultiplicationTable.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\net6.0\PrintMultiplicationTable.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\net6.0\PrintMultiplicationTable.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\net6.0\ref\PrintMultiplicationTable.dll
