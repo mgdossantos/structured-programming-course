@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\bin\Debug\net6.0\ExampleExam.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\bin\Debug\net6.0\ExampleExam.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\bin\Debug\net6.0\ExampleExam.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\bin\Debug\net6.0\ExampleExam.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\bin\Debug\net6.0\ExampleExam.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\obj\Debug\net6.0\ExampleExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\obj\Debug\net6.0\ExampleExam.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\obj\Debug\net6.0\ExampleExam.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\obj\Debug\net6.0\ExampleExam.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\obj\Debug\net6.0\ExampleExam.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\obj\Debug\net6.0\refint\ExampleExam.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\obj\Debug\net6.0\ExampleExam.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\obj\Debug\net6.0\ExampleExam.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ExampleExam\ExampleExam\obj\Debug\net6.0\ref\ExampleExam.dll

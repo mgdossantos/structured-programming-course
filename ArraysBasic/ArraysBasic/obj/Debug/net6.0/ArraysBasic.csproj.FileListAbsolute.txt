@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\obj\Debug\net6.0\ArraysBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\obj\Debug\net6.0\ArraysBasic.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\obj\Debug\net6.0\ArraysBasic.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\obj\Debug\net6.0\ArraysBasic.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\bin\Debug\net6.0\ArraysBasic.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\bin\Debug\net6.0\ArraysBasic.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\bin\Debug\net6.0\ArraysBasic.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\bin\Debug\net6.0\ArraysBasic.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\bin\Debug\net6.0\ArraysBasic.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\obj\Debug\net6.0\ArraysBasic.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\obj\Debug\net6.0\refint\ArraysBasic.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\obj\Debug\net6.0\ArraysBasic.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\obj\Debug\net6.0\ArraysBasic.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysBasic\ArraysBasic\obj\Debug\net6.0\ref\ArraysBasic.dll

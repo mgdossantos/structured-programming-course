@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\bin\Debug\net6.0\ArraysMidExam.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\bin\Debug\net6.0\ArraysMidExam.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\bin\Debug\net6.0\ArraysMidExam.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\bin\Debug\net6.0\ArraysMidExam.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\bin\Debug\net6.0\ArraysMidExam.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\obj\Debug\net6.0\ArraysMidExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\obj\Debug\net6.0\ArraysMidExam.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\obj\Debug\net6.0\ArraysMidExam.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\obj\Debug\net6.0\ArraysMidExam.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\obj\Debug\net6.0\ArraysMidExam.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\obj\Debug\net6.0\refint\ArraysMidExam.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\obj\Debug\net6.0\ArraysMidExam.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\obj\Debug\net6.0\ArraysMidExam.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\ArraysMidExam\ArraysMidExam\obj\Debug\net6.0\ref\ArraysMidExam.dll

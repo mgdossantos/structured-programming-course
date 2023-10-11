@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Specialized;
-using System.Diagnostics.CodeAnalysis;
 
 class Program
 {
