@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\bin\Debug\net6.0\CodeForSlides.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\bin\Debug\net6.0\CodeForSlides.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\bin\Debug\net6.0\CodeForSlides.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\bin\Debug\net6.0\CodeForSlides.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\bin\Debug\net6.0\CodeForSlides.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\obj\Debug\net6.0\CodeForSlides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\obj\Debug\net6.0\CodeForSlides.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\obj\Debug\net6.0\CodeForSlides.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\obj\Debug\net6.0\CodeForSlides.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\obj\Debug\net6.0\CodeForSlides.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\obj\Debug\net6.0\refint\CodeForSlides.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\obj\Debug\net6.0\CodeForSlides.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\obj\Debug\net6.0\CodeForSlides.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\CodeForSlides\CodeForSlides\obj\Debug\net6.0\ref\CodeForSlides.dll
