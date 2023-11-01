@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\obj\Debug\net6.0\StructBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\obj\Debug\net6.0\StructBasic.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\obj\Debug\net6.0\StructBasic.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\obj\Debug\net6.0\StructBasic.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\bin\Debug\net6.0\StructBasic.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\bin\Debug\net6.0\StructBasic.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\bin\Debug\net6.0\StructBasic.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\bin\Debug\net6.0\StructBasic.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\bin\Debug\net6.0\StructBasic.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\obj\Debug\net6.0\StructBasic.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\obj\Debug\net6.0\refint\StructBasic.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\obj\Debug\net6.0\StructBasic.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\obj\Debug\net6.0\StructBasic.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructBasic\StructBasic\obj\Debug\net6.0\ref\StructBasic.dll
