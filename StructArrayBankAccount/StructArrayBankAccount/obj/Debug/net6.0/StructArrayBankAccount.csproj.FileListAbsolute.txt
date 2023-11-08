@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\bin\Debug\net6.0\StructArrayBankAccount.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\bin\Debug\net6.0\StructArrayBankAccount.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\bin\Debug\net6.0\StructArrayBankAccount.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\bin\Debug\net6.0\StructArrayBankAccount.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\bin\Debug\net6.0\StructArrayBankAccount.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\obj\Debug\net6.0\StructArrayBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\obj\Debug\net6.0\StructArrayBankAccount.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\obj\Debug\net6.0\StructArrayBankAccount.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\obj\Debug\net6.0\StructArrayBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\obj\Debug\net6.0\StructArrayBankAccount.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\obj\Debug\net6.0\refint\StructArrayBankAccount.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\obj\Debug\net6.0\StructArrayBankAccount.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\obj\Debug\net6.0\StructArrayBankAccount.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\StructArrayBankAccount\StructArrayBankAccount\obj\Debug\net6.0\ref\StructArrayBankAccount.dll

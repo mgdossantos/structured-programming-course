@@ -11,9 +11,9 @@ namespace BankAccount
         float balance;
         char type;
 
-        public BankAccount(int id, string name,string address, float balance, char type)
+        public BankAccount(int id, string name, string address, float balance, char type)
         {
-            this.id = id;  
+            this.id = id;
             this.name = name;
             this.address = address;
             this.balance = balance;
@@ -32,7 +32,7 @@ namespace BankAccount
 
         public void setAddress(string newAddress)
         {
-            this.address=newAddress;
+            this.address = newAddress;
         }
 
         public string getAddress()
@@ -63,7 +63,7 @@ namespace BankAccount
 
         public void setBalance(float newBalance)
         {
-            this.balance=newBalance;
+            this.balance = newBalance;
         }
 
         public float getBalance()
@@ -84,12 +84,12 @@ namespace BankAccount
 
         public void withDrawl(float money)
         {
-           if(this.balance - money >= 0)
-           {
+            if (this.balance - money >= 0)
+            {
                 this.balance = this.balance - money;
                 Console.WriteLine("Sucessful Withdrawl");
                 Console.WriteLine("New balance: " + this.getBalance());
-           }
+            }
             else
             {
                 Console.WriteLine("You CAN NOT do this Withdrawl");
@@ -106,22 +106,33 @@ namespace BankAccount
     {
         static void Main(string[] args)
         {
-            BankAccount account1 = new BankAccount();
-            Console.WriteLine(" Name: ");
-            account1.setName(Console.ReadLine());
-            Console.WriteLine("Address: ");
-            account1.setAddress(Console.ReadLine());
-            Console.WriteLine("Initial balance: ");
-            account1.setBalance(float.Parse(Console.ReadLine()));
-            Console.WriteLine("Bank account type: Chequings or Savings");
-            account1.setType(Console.ReadLine());
+            BankAccount[] bank1 = new BankAccount[3];
+            for(int i =0; i< 3; i++)
+            {
+                bank1[i] = new BankAccount();
+                Console.WriteLine(" Name: ");
+                bank1[i].setName(Console.ReadLine());
+                Console.WriteLine("Address: ");
+                bank1[i].setAddress(Console.ReadLine());
+                Console.WriteLine("Initial balance: ");
+                bank1[i].setBalance(float.Parse(Console.ReadLine()));
+                Console.WriteLine("Bank account type: Chequings or Savings");
+                bank1[i].setType(Console.ReadLine());
+            }
 
-            account1.showInformation();
+            foreach(BankAccount i in bank1)
+            {
+                i.showInformation();
+            }
+
+
+            
 
             float moneyWithDrawl;
             Console.WriteLine("How much you want to withdrawl? ");
-            moneyWithDrawl=float.Parse(Console.ReadLine());
-            account1.withDrawl(moneyWithDrawl);
+            moneyWithDrawl = float.Parse(Console.ReadLine());
+            bank1[0].withDrawl(moneyWithDrawl);
+            bank1[0].showInformation();
         }
 
     }
