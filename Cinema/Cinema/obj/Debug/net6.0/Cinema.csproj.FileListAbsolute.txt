@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\bin\Debug\net6.0\Cinema.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\bin\Debug\net6.0\Cinema.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\bin\Debug\net6.0\Cinema.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\bin\Debug\net6.0\Cinema.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\obj\Debug\net6.0\Cinema.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\obj\Debug\net6.0\refint\Cinema.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\obj\Debug\net6.0\Cinema.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Cinema\Cinema\obj\Debug\net6.0\ref\Cinema.dll
