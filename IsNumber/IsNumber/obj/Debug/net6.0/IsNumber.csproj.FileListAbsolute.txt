@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\bin\Debug\net6.0\IsNumber.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\bin\Debug\net6.0\IsNumber.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\bin\Debug\net6.0\IsNumber.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\bin\Debug\net6.0\IsNumber.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\bin\Debug\net6.0\IsNumber.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\obj\Debug\net6.0\IsNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\obj\Debug\net6.0\IsNumber.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\obj\Debug\net6.0\IsNumber.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\obj\Debug\net6.0\IsNumber.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\obj\Debug\net6.0\IsNumber.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\obj\Debug\net6.0\refint\IsNumber.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\obj\Debug\net6.0\IsNumber.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\obj\Debug\net6.0\IsNumber.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\IsNumber\IsNumber\obj\Debug\net6.0\ref\IsNumber.dll
